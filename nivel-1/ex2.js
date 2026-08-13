@@ -1,4 +1,4 @@
-function saudacao(nome) {
+function MostrarNome(nome) {
     console.log(`Olá, ${nome}`);
 }
-saudacao("joão");
+MostrarNome("joão");
